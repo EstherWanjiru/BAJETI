@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BAJETI</string>
+
+    <string-array name="spinner_expenditure">
+
+        <item>Food</item>
+        <item>Transport</item>
+        <item>School Work</item>
+        <item>Airtime/Bundles</item>
+        <item>Shopping</item>
+        <item>Impulse</item>
+    </string-array>
+
+
+</resources>

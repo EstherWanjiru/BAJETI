@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259421048897",
+    "firebase_url": "https://bajeti-769e6.firebaseio.com",
+    "project_id": "bajeti-769e6",
+    "storage_bucket": "bajeti-769e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259421048897:android:e90917ae184e4698fc76c0",
+        "android_client_info": {
+          "package_name": "com.example.bajeti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259421048897-hq25jo9s0dolqglslrkd6lqvupdej0cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bajeti",
+            "certificate_hash": "0d973a9e6d03ba427ecf50f5f508af848d6e67cc"
+          }
+        },
+        {
+          "client_id": "259421048897-s74e2887ugs34mki3dg3ofude270hpvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHoAvESFCHMSTCEpd9JJFQErok3c1UVPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259421048897-s74e2887ugs34mki3dg3ofude270hpvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
